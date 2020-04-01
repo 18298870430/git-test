@@ -1,4 +1,8 @@
 192.168.229.135 - ubuntu
 192.168.229.131 - this
 
+<<<<<<< HEAD
 you are awesome too!
+=======
+I am very awesome
+>>>>>>> 297651a8b28ca8ae9f8673dd33a103872194fe28
